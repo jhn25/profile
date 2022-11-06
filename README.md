@@ -1,1 +1,2 @@
-# profile
+# My simple Profile
+# OSSP project
